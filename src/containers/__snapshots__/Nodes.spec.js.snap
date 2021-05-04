@@ -135,7 +135,7 @@ exports[`<Nodes /> should match snapshot 1`] = `
               <p
                 className="MuiTypography-root MuiTypography-body1"
               >
-                Blocks go here
+                Node OFFLINE
               </p>
             </div>
           </div>
@@ -261,7 +261,7 @@ exports[`<Nodes /> should match snapshot 1`] = `
               <p
                 className="MuiTypography-root MuiTypography-body1"
               >
-                Blocks go here
+                Node OFFLINE
               </p>
             </div>
           </div>
